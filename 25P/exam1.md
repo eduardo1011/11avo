@@ -1,4 +1,4 @@
-# Tabla para pregunta 27
+## Tabla para pregunta 27
 
 ```
 [S] (mM)	[S] (mmol/min)	CBN (mmol/min)	THC (mmol/min)
@@ -13,7 +13,7 @@
 50	9.8	9.09	9
 ```
 
-# Tabla para pregunta 28
+### Tabla para pregunta 28
 
 ```
 [S] (μM)	Asp Vo (μM/min)	InA Vo (μM/min)	InB Vo (μM/min)	InC Vo (μM/min)
