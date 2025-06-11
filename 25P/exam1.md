@@ -1,4 +1,4 @@
-# <font color = red>Datoa para examen parcial 1 </font>
+# <it>Datoa para examen parcial 1 </it>
 
 ### Tabla para pregunta 27
 
