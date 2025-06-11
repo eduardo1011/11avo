@@ -1,4 +1,4 @@
-# <it>Datoa para examen parcial 1 </it>
+## Datos para examen parcial 1
 
 ### Tabla para pregunta 27
 
